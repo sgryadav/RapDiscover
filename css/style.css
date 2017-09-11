@@ -15,6 +15,10 @@ body{
 	margin: auto;
 }
 
+.list{
+	text-align: center;
+}
+
 #head{
 	font-family: 'Permanent Marker', cursive;
 	position: relative;
