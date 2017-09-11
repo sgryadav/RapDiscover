@@ -1,0 +1,22 @@
+input[type=text]{
+	width: 230px;
+	-webkit-transition: width 0.4s ease-in-out;
+	transition: width 0.4s ease-in-out;
+	position: relative;
+	left: 38%;
+}
+
+input[type=text]:focus{
+	width: 20%;
+}
+
+body{
+	background-color: #f6f6f6;
+}
+
+#head{
+	font-family: 'Permanent Marker', cursive;
+	position: relative;
+	left: 40%;
+
+}
